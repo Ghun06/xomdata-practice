@@ -35,5 +35,7 @@
   "practice/sql/nightmare/sql-nightmare-004/solution.sql": "fc41f097d9546d593b37e723ca05463af34df4c0a61422bae6babb4fc41217db",
   "practice/sql/easy/easy-having-001/solution.sql": "e8cefb7cab8bd13b6be6b9c0f7b0f0fdbf8b345048a8b92614587f9e55130752",
   "practice/sql/easy/easy-having-002/solution.sql": "d8f6332125c4d4b7a4fbd145414a57e6e679778dd739b6334b173c12a3f40834",
-  "practice/sql/easy/easy-groupby-003/solution.sql": "6120c2148a0200b75dc9ccbde40a7f607fa5d162615d5a79a11d406789906548"
+  "practice/sql/easy/easy-groupby-003/solution.sql": "6120c2148a0200b75dc9ccbde40a7f607fa5d162615d5a79a11d406789906548",
+  "practice/sql/easy/easy-leftjoin-002/solution.sql": "98c1ee7be12d13a9ff26c2d9c35d9ce5d6c2a8dbe3d148125071141d5ad88a2b",
+  "practice/sql/medium/medium-agg-137/solution.sql": "91b67ba77b2073461a33c6dcb1a9a9865ae749e1e58826df8e0c505dab1e90bb"
 }
