@@ -39,5 +39,8 @@
   "practice/sql/easy/easy-leftjoin-002/solution.sql": "98c1ee7be12d13a9ff26c2d9c35d9ce5d6c2a8dbe3d148125071141d5ad88a2b",
   "practice/sql/medium/medium-agg-137/solution.sql": "91b67ba77b2073461a33c6dcb1a9a9865ae749e1e58826df8e0c505dab1e90bb",
   "practice/sql/nightmare/nightmare-twa-001/solution.sql": "8477b6b5b47c72614c0d3f1a60c66fdf9bd334eda332a4b7087414bab23d1bc3",
-  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "d97e534213e6e419a4da00e297e1344a655b895d8418ad4ddb32b97b42f59dbc"
+  "practice/sql/hard/hard-pathanalysis-001/solution.sql": "d97e534213e6e419a4da00e297e1344a655b895d8418ad4ddb32b97b42f59dbc",
+  "practice/sql/hard/hard-hierarchical-001/solution.sql": "9ad6b445a4382c88e086ef5815484fadd785cf8ccb4e770e06f55392bc100c0b",
+  "practice/sql/hard/hard-mrr-001/solution.sql": "9691473c8cc3a636afc665837583ac633aa5c1476d5e6da8835bd6afc17b6bf6",
+  "practice/sql/hard/hard-anti-001/solution.sql": "3fe4fa4afaef137272ba8d029ca1f0ec3b4d49c1ca3b23c15875665c520906ae"
 }
