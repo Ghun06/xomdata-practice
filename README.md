@@ -4,14 +4,16 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**44** problems solved on [Xom Data](https://xomdata.com/practice).
+**46** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 8 | 11 | 12 | 13 | 44 |
+| SQL | 8 | 11 | 13 | 14 | 46 |
 
 **Recently solved**
 
+- [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-08-19
+- [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-08-19
 - [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-08-18
 - [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-08-18
 - [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-08-17
@@ -20,10 +22,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [medium-agg-137](https://xomdata.com/practice/medium-agg-137) · Medium · 2026-08-14
 - [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-08-13
 - [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-08-13
-- [easy-having-002](https://xomdata.com/practice/easy-having-002) · Easy · 2026-08-13
-- [easy-having-001](https://xomdata.com/practice/easy-having-001) · Easy · 2026-08-13
 
-_Synced 44 solutions · last update 2026-08-18_
+_Synced 46 solutions · last update 2026-08-19_
 
 <!-- xomdata:stats:end -->
 

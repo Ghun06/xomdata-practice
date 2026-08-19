@@ -42,5 +42,7 @@
   "practice/sql/hard/hard-pathanalysis-001/solution.sql": "d97e534213e6e419a4da00e297e1344a655b895d8418ad4ddb32b97b42f59dbc",
   "practice/sql/hard/hard-hierarchical-001/solution.sql": "9ad6b445a4382c88e086ef5815484fadd785cf8ccb4e770e06f55392bc100c0b",
   "practice/sql/hard/hard-mrr-001/solution.sql": "9691473c8cc3a636afc665837583ac633aa5c1476d5e6da8835bd6afc17b6bf6",
-  "practice/sql/hard/hard-anti-001/solution.sql": "3fe4fa4afaef137272ba8d029ca1f0ec3b4d49c1ca3b23c15875665c520906ae"
+  "practice/sql/hard/hard-anti-001/solution.sql": "3fe4fa4afaef137272ba8d029ca1f0ec3b4d49c1ca3b23c15875665c520906ae",
+  "practice/sql/nightmare/expert-final-rec-003/solution.sql": "8c36abf2e2f24234be181338290bd1b8be97bc0630d6da2400e177be13d74b96",
+  "practice/sql/hard/hard-yoy-001/solution.sql": "8780219630de809d9c751311377b38912629f7867aa746bb2ba3bed43994af7a"
 }
