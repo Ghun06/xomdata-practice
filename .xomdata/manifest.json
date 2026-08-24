@@ -44,5 +44,10 @@
   "practice/sql/hard/hard-mrr-001/solution.sql": "9691473c8cc3a636afc665837583ac633aa5c1476d5e6da8835bd6afc17b6bf6",
   "practice/sql/hard/hard-anti-001/solution.sql": "3fe4fa4afaef137272ba8d029ca1f0ec3b4d49c1ca3b23c15875665c520906ae",
   "practice/sql/nightmare/expert-final-rec-003/solution.sql": "8c36abf2e2f24234be181338290bd1b8be97bc0630d6da2400e177be13d74b96",
-  "practice/sql/hard/hard-yoy-001/solution.sql": "8780219630de809d9c751311377b38912629f7867aa746bb2ba3bed43994af7a"
+  "practice/sql/hard/hard-yoy-001/solution.sql": "8780219630de809d9c751311377b38912629f7867aa746bb2ba3bed43994af7a",
+  "practice/sql/medium/medium-lag-002/solution.sql": "2f67cbd16208a058d245254afd4d9009770b0aff31d55da2e994c10d3fb86615",
+  "practice/sql/medium/medium-lag-003/solution.sql": "8997c9a0a8f156db31e3c9de4a751d1935179a682ce2b66f12f4d93b51402f66",
+  "practice/sql/medium/medium-denserank-001/solution.sql": "e5171117bb12b1ea2f39c25315859153c020791db9af5bd0fb5c3eb672363fa7",
+  "practice/sql/hard/hard-cohort-001/solution.sql": "2ba8ea76b673fae99eb10dbb17a3f087a9d58059672f0218a0af331f6c57636b",
+  "practice/sql/hard/hard-streak-001/solution.sql": "09b63b8e4eaaa6aec513a855db7c1f216b06bbc422ac33bdcf36ee51e673bb38"
 }

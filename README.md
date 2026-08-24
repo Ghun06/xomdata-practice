@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**46** problems solved on [Xom Data](https://xomdata.com/practice).
+**51** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 8 | 11 | 13 | 14 | 46 |
+| SQL | 8 | 14 | 15 | 14 | 51 |
 
 **Recently solved**
 
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-08-23
+- [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-08-22
+- [medium-denserank-001](https://xomdata.com/practice/medium-denserank-001) · Medium · 2026-08-22
+- [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-08-20
+- [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-08-20
 - [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-08-19
 - [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-08-19
 - [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-08-18
 - [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-08-18
 - [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-08-17
-- [hard-pathanalysis-001](https://xomdata.com/practice/hard-pathanalysis-001) · Hard · 2026-08-16
-- [nightmare-twa-001](https://xomdata.com/practice/nightmare-twa-001) · Nightmare · 2026-08-15
-- [medium-agg-137](https://xomdata.com/practice/medium-agg-137) · Medium · 2026-08-14
-- [easy-leftjoin-002](https://xomdata.com/practice/easy-leftjoin-002) · Easy · 2026-08-13
-- [easy-groupby-003](https://xomdata.com/practice/easy-groupby-003) · Easy · 2026-08-13
 
-_Synced 46 solutions · last update 2026-08-19_
+_Synced 51 solutions · last update 2026-08-24_
 
 <!-- xomdata:stats:end -->
 
