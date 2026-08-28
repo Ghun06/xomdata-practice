@@ -49,5 +49,9 @@
   "practice/sql/medium/medium-lag-003/solution.sql": "8997c9a0a8f156db31e3c9de4a751d1935179a682ce2b66f12f4d93b51402f66",
   "practice/sql/medium/medium-denserank-001/solution.sql": "e5171117bb12b1ea2f39c25315859153c020791db9af5bd0fb5c3eb672363fa7",
   "practice/sql/hard/hard-cohort-001/solution.sql": "2ba8ea76b673fae99eb10dbb17a3f087a9d58059672f0218a0af331f6c57636b",
-  "practice/sql/hard/hard-streak-001/solution.sql": "09b63b8e4eaaa6aec513a855db7c1f216b06bbc422ac33bdcf36ee51e673bb38"
+  "practice/sql/hard/hard-streak-001/solution.sql": "09b63b8e4eaaa6aec513a855db7c1f216b06bbc422ac33bdcf36ee51e673bb38",
+  "practice/sql/medium/medium-join-141/solution.sql": "8153f65352cc1e2e5aa3f37308e6ddf7aaebe258980999eec1490df68b820b87",
+  "practice/sql/medium/medium-cohort-002/solution.sql": "bd168378ec3d360a198799b5b243d1a4bb0e494d606dcb29d735ffeffbea655e",
+  "practice/sql/medium/medium-winjoin-003/solution.sql": "1011d4745f9b15ea435b6c3921785075728bae46ffa3c3660734744939e6b00a",
+  "practice/sql/hard/hard-retention-009/solution.sql": "d447ca481b33aa6421f9c0e608dff0ebf03e5ba080344e76e5714de7f7241079"
 }

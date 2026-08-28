@@ -4,26 +4,26 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**51** problems solved on [Xom Data](https://xomdata.com/practice).
+**55** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| SQL | 8 | 14 | 15 | 14 | 51 |
+| SQL | 8 | 17 | 16 | 14 | 55 |
 
 **Recently solved**
 
+- [hard-retention-009](https://xomdata.com/practice/hard-retention-009) · Hard · 2026-08-28
+- [medium-winjoin-003](https://xomdata.com/practice/medium-winjoin-003) · Medium · 2026-08-28
+- [medium-cohort-002](https://xomdata.com/practice/medium-cohort-002) · Medium · 2026-08-28
+- [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-08-24
 - [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-08-23
 - [hard-cohort-001](https://xomdata.com/practice/hard-cohort-001) · Hard · 2026-08-22
 - [medium-denserank-001](https://xomdata.com/practice/medium-denserank-001) · Medium · 2026-08-22
 - [medium-lag-003](https://xomdata.com/practice/medium-lag-003) · Medium · 2026-08-20
 - [medium-lag-002](https://xomdata.com/practice/medium-lag-002) · Medium · 2026-08-20
 - [hard-yoy-001](https://xomdata.com/practice/hard-yoy-001) · Hard · 2026-08-19
-- [expert-final-rec-003](https://xomdata.com/practice/expert-final-rec-003) · Nightmare · 2026-08-19
-- [hard-anti-001](https://xomdata.com/practice/hard-anti-001) · Hard · 2026-08-18
-- [hard-mrr-001](https://xomdata.com/practice/hard-mrr-001) · Hard · 2026-08-18
-- [hard-hierarchical-001](https://xomdata.com/practice/hard-hierarchical-001) · Hard · 2026-08-17
 
-_Synced 51 solutions · last update 2026-08-24_
+_Synced 55 solutions · last update 2026-08-28_
 
 <!-- xomdata:stats:end -->
 
