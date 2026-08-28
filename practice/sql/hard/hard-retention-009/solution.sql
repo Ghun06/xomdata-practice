@@ -1,4 +1,4 @@
--- Xom Data · Kênh nào mua về khách bền nhất
+-- Xom Data · Which channel brings in the most durable customers
 -- Problem: https://xomdata.com/practice/hard-retention-009
 -- Solved: 2026-08-28
 
