@@ -4,15 +4,17 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**81** problems solved on [Xom Data](https://xomdata.com/practice).
+**83** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 11 | 5 | 0 | 0 | 16 |
-| SQL | 9 | 19 | 18 | 19 | 65 |
+| SQL | 9 | 19 | 19 | 20 | 67 |
 
 **Recently solved**
 
+- [hard-rfm-002](https://xomdata.com/practice/hard-rfm-002) · Hard · 2026-11-24
+- [expert-final-cohort-002](https://xomdata.com/practice/expert-final-cohort-002) · Nightmare · 2026-11-24
 - [nightmare-median-freq-001](https://xomdata.com/practice/nightmare-median-freq-001) · Nightmare · 2026-11-19
 - [sql-nightmare-010](https://xomdata.com/practice/sql-nightmare-010) · Nightmare · 2026-11-19
 - [nightmare-lis-001](https://xomdata.com/practice/nightmare-lis-001) · Nightmare · 2026-11-17
@@ -21,10 +23,8 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 - [nightmare-statemachine-001](https://xomdata.com/practice/nightmare-statemachine-001) · Nightmare · 2026-09-08
 - [py-initials](https://xomdata.com/practice/py-initials) · Easy · 2026-09-07
 - [py-vowels](https://xomdata.com/practice/py-vowels) · Easy · 2026-09-06
-- [py-group-category](https://xomdata.com/practice/py-group-category) · Medium · 2026-09-05
-- [py-gcd](https://xomdata.com/practice/py-gcd) · Medium · 2026-09-04
 
-_Synced 81 solutions · last update 2026-11-19_
+_Synced 83 solutions · last update 2026-11-24_
 
 <!-- xomdata:stats:end -->
 
